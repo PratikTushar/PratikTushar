@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eraofdestroyer
+- 👋 Hi, I’m @PratikTushar
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Python
